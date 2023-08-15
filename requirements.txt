@@ -1,0 +1,8 @@
+numpy
+pyarrow
+pandas
+os
+requests
+tqdm
+pyquery
+scikit-learn==1.1.3

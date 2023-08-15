@@ -1,0 +1,10 @@
+https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/img_emb/img_emb_0000.npy
+https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/img_emb/img_emb_0001.npy
+https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/img_emb/img_emb_0002.npy
+https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/img_emb/img_emb_0003.npy
+https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/img_emb/img_emb_0004.npy
+https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/img_emb/img_emb_0005.npy
+https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/img_emb/img_emb_0006.npy
+https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/img_emb/img_emb_0007.npy
+https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/img_emb/img_emb_0008.npy
+https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/img_emb/img_emb_0009.npy
