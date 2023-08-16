@@ -4,6 +4,7 @@ import random
 from sklearn import preprocessing
 from pymilvus import connections, Collection, utility
 
+
 def gen_links(data_type: str, index=0):
     base_url = 'https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/'
     if data_type == "metadata":
@@ -22,10 +23,12 @@ def write_links(end: int, data_type: str, start=0):
 
 
 if __name__ == '__main__':
-    end = 10
+    start = 150
+    end = 200
     # base_url = 'https://the-eye.eu/public/AI/cah/laion5b/embeddings/laion1B-nolang/laion1B-nolang-metadata/'
     # with open('/home/zong/PycharmProjects/AboutData/metadata.txt', 'a') as f:
     #     for i in range(end):
     #         file_url = f'{base_url}metadata_{i:04d}.parquet'
     #         line = f.writelines(file_url+"\n")
-    write_links(10, data_type="vector")
+    write_links(end=end, data_type="vector", start=start)
+    # write_links(end=end, data_type="metadata", start=start)
